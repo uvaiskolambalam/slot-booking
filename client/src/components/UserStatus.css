@@ -1,0 +1,21 @@
+.status{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.statusDetails{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(4, 99, 86);
+    border-radius: 20px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+
